@@ -1,5 +1,5 @@
 
-# 🚀 Java Buils: From Fundamentals to Advanced Applications
+# 🚀 Java Builds: From Fundamentals to Advanced Applications
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/)
 
